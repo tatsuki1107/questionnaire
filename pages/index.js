@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react"
 import { useForm, Controller } from "react-hook-form"
 import Container from '@material-ui/core/Container'
 import { Input } from "@material-ui/core"
-import firebase from ".//config/Firebase"
+import firebase from "../config/Firebase"
 
 
 //<input type="birth" id="birth" {...register("birth", { required: true, pattern: /^(19[0-9]{2}|20[0-9]{2})(0[1-9]|1[0-2])(0[1-9]|[12][0-9]|3[01])$/ })} />
