@@ -67,7 +67,7 @@ export default function Home() {
             }
           </div>
           <div>
-            <span>Q3.現在プログラミングを学習していますか?</span>
+            <span>Q3.現在プログラミングを学習していますか</span>
 
             <label htmlFor="isLearning">はい</label>
             <input
